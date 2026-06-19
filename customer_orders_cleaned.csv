@@ -1,0 +1,280 @@
+Order_ID,Customer_Name,Age,Gender,City,State,Email,Phone,Order_Date,Delivery_Date,Product,Category,Quantity,Price,Discount,Revenue,Payment_Method,Rating,Phone_Valid,Reveune_Valid,Age_Group,VIP_Customer,High_Rating
+1001,Neha Patel,27,Male,Delhi,Uttar Pradesh,user0@gmail.com,9883197857,2025-01-10,2025-01-15,Mobile,Accessories,1,500,0.1,450.0,Cash,0,True,True,Young,No,No
+1002,Neha Patel,36,Male,Surat,Uttar Pradesh,user1@gmail.com,9897226012,2025-01-10,2025-01-15,Chair,Electronics,1,500,0.05,475.0,UPI,4,True,True,Adult,No,No
+1003,Rahul Singh,42,Female,Pune,Gujarat,user2@gmail.com,9830868105,2025-01-10,2025-01-15,Tablet,Furniture,5,2500,0.0,12500.0,Cash,1,True,True,Adult,No,No
+1004,Pooja Verma,47,Female,Jaipur,Maharashtra,user3@gmail.com,9871662963,2025-01-10,2025-01-15,Chair,Electronics,1,5000,0.0,5000.0,Cash,1,True,True,Adult,No,No
+1005,Pooja Verma,38,Male,Delhi,Maharashtra,user4@gmail.com,9898753260,2025-01-10,2025-01-15,Tablet,Furniture,5,2500,0.2,10000.0,Cash,1,True,True,Adult,No,No
+1007,Rohit Gupta,43,Male,Ahmedabad,Rajasthan,user6@gmail.com,9860929647,2025-01-10,2025-01-15,Monitor,Accessories,1,10000,0.05,9500.0,Credit Card,5,True,True,Adult,No,Yes
+1008,Amit Kumar,27,Male,Pune,Rajasthan,user7@gmail.com,9845935572,2025-01-10,2025-01-15,Mobile,Electronics,2,20000,0.1,36000.0,Credit Card,3,True,True,Young,Yes,No
+1010,Arjun Mehta,33,Female,Pune,Delhi,user9@gmail.com,9828566572,2025-01-10,2025-01-15,Chair,Electronics,3,20000,0.2,48000.0,UPI,1,True,True,Adult,Yes,No
+1011,Arjun Mehta,39,Male,Indore,Rajasthan,user10@gmail.com,9889978790,2025-01-10,2025-01-15,Printer,Accessories,1,1000,0.05,950.0,Cash,5,True,True,Adult,No,Yes
+1013,Rohit Gupta,49,Male,Jaipur,Uttar Pradesh,user12@gmail.com,9878137358,2025-01-10,2025-01-15,Desk,Electronics,3,10000,0.05,28500.0,UPI,3,True,True,Adult,No,No
+1014,Amit Kumar,39,Female,Lucknow,Maharashtra,user13@gmail.com,9825014631,2025-01-10,2025-01-15,Keyboard,Furniture,2,10000,0.2,16000.0,Cash,2,True,True,Adult,No,No
+1015,Priya Sharma,22,Female,Delhi,Madhya Pradesh,user14@gmail.com,9826879290,2025-01-10,2025-01-15,Headphones,Accessories,1,1000,0.2,800.0,Cash,5,True,True,Young,No,Yes
+1017,Priya Sharma,27,Male,Delhi,Gujarat,user16@gmail.com,9812823170,2025-01-10,2025-01-15,Desk,Accessories,4,10000,0.15,34000.0,UPI,5,True,True,Young,Yes,Yes
+1018,Amit Kumar,27,Male,Mumbai,Gujarat,user17@gmail.com,9819510312,2025-01-10,2025-01-15,Chair,Electronics,2,500,0.0,1000.0,Cash,4,True,True,Young,No,No
+1019,Kiran Shah,38,Female,Surat,Rajasthan,user18@gmail.com,9864634663,2025-01-10,2025-01-15,Tablet,Electronics,2,10000,0.05,19000.0,UPI,4,True,True,Adult,No,No
+1020,Sneha Jain,47,Male,Delhi,Maharashtra,user19@gmail.com,9864038913,2025-01-10,2025-01-15,Keyboard,Furniture,3,5000,0.15,12750.0,UPI,2,True,True,Adult,No,No
+1021,Sneha Jain,24,Female,Ahmedabad,Gujarat,user20@gmail.com,9872092888,2025-01-10,2025-01-15,Tablet,Furniture,2,1000,0.2,1600.0,UPI,10,True,True,Young,No,Yes
+1022,Rohit Gupta,46,Male,Delhi,Delhi,user21@gmail.com,9832321899,2025-01-10,2025-01-15,Mouse,Electronics,5,500,0.0,2500.0,Cash,2,True,True,Adult,No,No
+1023,Arjun Mehta,20,Female,Jaipur,Rajasthan,user22@gmail.com,9848285503,2025-01-10,2025-01-15,Mouse,Accessories,4,500,0.05,1900.0,Credit Card,5,True,True,Young,No,Yes
+1024,Vikram Joshi,26,Male,Mumbai,Uttar Pradesh,user23@gmail.com,9852091325,2025-01-10,2025-01-15,Laptop,Electronics,4,1000,0.05,3800.0,Credit Card,4,True,True,Young,No,No
+1025,Rahul Singh,21,Male,Ahmedabad,Maharashtra,user24@gmail.com,9889864260,2025-01-10,2025-01-15,Mobile,Accessories,5,50000,0.2,200000.0,UPI,4,True,True,Young,Yes,No
+1026,Kiran Shah,39,Male,Delhi,Rajasthan,user25@gmail.com,9898231132,2025-01-10,2025-01-15,Desk,Accessories,1,10000,0.05,9500.0,Credit Card,3,True,True,Adult,No,No
+1027,Neha Patel,28,Female,Ahmedabad,Uttar Pradesh,user26@gmail.com,9896637649,2025-01-10,2025-01-15,Monitor,Electronics,3,1000,0.1,2700.0,Cash,1,True,True,Young,No,No
+1028,Kiran Shah,23,Male,Surat,Madhya Pradesh,user27@gmail.com,9845594597,2025-01-10,2025-01-15,Headphones,Electronics,1,5000,0.2,4000.0,UPI,2,True,True,Young,No,No
+1029,Sneha Jain,46,Female,Mumbai,Uttar Pradesh,user28@gmail.com,9884437458,2025-01-10,2025-01-15,Monitor,Accessories,3,2500,0.05,7125.0,UPI,2,True,True,Adult,No,No
+1030,Rohit Gupta,24,Female,Jaipur,Madhya Pradesh,user29@gmail.com,9838270233,2025-01-10,2025-01-15,Keyboard,Electronics,3,500,0.0,1500.0,Credit Card,3,True,True,Young,No,No
+1031,Amit Kumar,22,Female,Jaipur,Maharashtra,user30@gmail.com,9810475894,2025-01-10,2025-01-15,Keyboard,Furniture,5,5000,0.1,22500.0,UPI,3,True,True,Young,No,No
+1032,Rohit Gupta,42,Female,Jaipur,Maharashtra,@gmail.com,9820099059,2025-01-10,2025-01-15,Headphones,Accessories,2,20000,0.15,34000.0,UPI,3,True,True,Adult,Yes,No
+1033,Arjun Mehta,24,Male,Jaipur,Gujarat,user32@gmail.com,9815354599,2025-01-10,2025-01-15,Keyboard,Electronics,5,10000,0.05,47500.0,Credit Card,2,True,True,Young,Yes,No
+1034,Arjun Mehta,39,Male,Surat,Gujarat,user33@gmail.com,9833763566,2025-01-10,2025-01-15,Mouse,Electronics,1,2500,0.2,2000.0,UPI,3,True,True,Adult,No,No
+1035,Vikram Joshi,25,Male,Indore,Gujarat,user34@gmail.com,9873174945,2025-01-10,2025-01-15,Tablet,Electronics,4,50000,0.05,190000.0,Cash,3,True,True,Young,Yes,No
+1036,Neha Patel,20,Male,Indore,Gujarat,user35@gmail.com,9847393469,2025-01-10,2025-01-15,Mobile,Furniture,3,50000,0.05,142500.0,Cash,3,True,True,Young,Yes,No
+1037,Pooja Verma,50,Male,Delhi,Gujarat,user36@gmail.com,9833966966,,2025-01-15,Desk,Electronics,5,5000,0.2,20000.0,UPI,1,True,True,Senior,No,No
+1038,Pooja Verma,33,Male,Indore,Madhya Pradesh,user37@gmail.com,9835511941,2025-01-10,2025-01-15,Monitor,Electronics,5,5000,0.1,22500.0,Credit Card,0,True,True,Adult,No,No
+1039,Neha Patel,31,Female,Delhi,Uttar Pradesh,user38@gmail.com,9854318698,2025-01-10,2025-01-15,Desk,Electronics,1,10000,0.2,8000.0,Credit Card,1,True,True,Adult,No,No
+1040,Arjun Mehta,30,Female,Jaipur,Madhya Pradesh,user39@gmail.com,9827084279,2025-01-10,2025-01-15,Tablet,Electronics,3,10000,0.1,27000.0,Credit Card,4,True,True,Adult,No,No
+1041,Vikram Joshi,32,Male,Jaipur,Gujarat,amitgmail.com,9838210242,2025-01-10,2025-01-15,Mouse,Furniture,2,10000,0.2,16000.0,Credit Card,5,True,True,Adult,No,Yes
+1042,Sneha Jain,41,Male,Lucknow,Uttar Pradesh,user41@gmail.com,9832775593,2025-01-10,2025-01-15,Mobile,Electronics,3,5000,0.15,12750.0,Credit Card,5,True,True,Adult,No,Yes
+1043,Vikram Joshi,27,Male,Ahmedabad,Gujarat,user42@gmail.com,9816202700,2025-01-10,2025-01-15,Tablet,Electronics,3,500,0.05,1425.0,Credit Card,1,True,True,Young,No,No
+1045,Neha Patel,25,Female,Mumbai,Madhya Pradesh,abc@,9843446826,2025-01-10,2025-01-15,Mobile,Electronics,1,50000,0.15,42500.0,UPI,4,True,True,Young,Yes,No
+1046,Pooja Verma,33,Female,Indore,Madhya Pradesh,user45@gmail.com,9869849511,2025-01-10,2025-01-15,Headphones,Accessories,5,10000,0.2,40000.0,Cash,4,True,True,Adult,Yes,No
+1047,Vikram Joshi,44,Female,Surat,Gujarat,user46@gmail.com,9869038700,2025-01-10,2025-01-15,Mobile,Accessories,3,50000,0.05,142500.0,Cash,2,True,True,Adult,Yes,No
+1048,Rohit Gupta,22,Male,Ahmedabad,Gujarat,user47@gmail.com,9861410126,2025-01-10,2025-01-15,Headphones,Accessories,3,2500,0.1,6750.0,UPI,1,True,True,Young,No,No
+1049,Rohit Gupta,34,Female,Mumbai,Delhi,user48@gmail.com,9866390708,2025-01-10,2025-01-15,Mouse,Furniture,4,5000,0.1,18000.0,Credit Card,1,True,True,Adult,No,No
+1050,Amit Kumar,50,Female,Jaipur,Rajasthan,user49@gmail.com,9866240084,2025-01-10,2025-01-15,Chair,Accessories,5,5000,0.15,21250.0,Credit Card,5,True,True,Senior,No,Yes
+1051,Neha Patel,28,Female,Lucknow,Maharashtra,user50@gmail.com,9862191530,2025-01-10,2025-01-15,Keyboard,Accessories,5,1000,0.15,4250.0,Credit Card,4,True,True,Young,No,No
+1052,Rahul Singh,39,Male,Indore,Madhya Pradesh,user51@gmail.com,9885751409,2025-01-10,2025-01-15,Laptop,Electronics,2,50000,0.15,85000.0,Credit Card,4,True,True,Adult,Yes,No
+1053,Rahul Singh,21,Female,Indore,Gujarat,user52@gmail.com,9838408562,2025-01-10,2025-01-15,Printer,Electronics,2,50000,0.15,85000.0,Cash,4,True,True,Young,Yes,No
+1054,Vikram Joshi,46,Male,Lucknow,Maharashtra,user53@gmail.com,9882399599,2025-01-10,2025-01-15,Laptop,Electronics,3,50000,0.15,127500.0,UPI,1,True,True,Adult,Yes,No
+1055,Neha Patel,26,Male,Ahmedabad,Delhi,user54@gmail.com,9826941092,2025-01-10,2025-01-15,Printer,Accessories,1,50000,0.0,50000.0,UPI,5,True,True,Young,Yes,Yes
+1056,Pooja Verma,25,Male,Ahmedabad,Gujarat,amitgmail.com,9824508768,2025-01-10,2025-01-15,Desk,Electronics,2,5000,0.1,9000.0,Cash,5,True,True,Young,No,Yes
+1057,Priya Sharma,38,Male,Delhi,Gujarat,user56@gmail.com,9850477742,2025-01-10,2025-01-15,Desk,Furniture,4,5000,0.05,19000.0,UPI,5,True,True,Adult,No,Yes
+1058,Arjun Mehta,33,Female,Delhi,Madhya Pradesh,user57@gmail.com,9896911784,2025-01-10,2025-01-15,Keyboard,Electronics,1,2500,0.2,2000.0,Cash,4,True,True,Adult,No,No
+1059,Sneha Jain,42,Male,Indore,Delhi,user58@gmail.com,9880027662,2025-01-10,2025-01-15,Monitor,Accessories,1,5000,0.1,4500.0,Credit Card,4,True,True,Adult,No,No
+1060,Vikram Joshi,30,Male,Delhi,Gujarat,user59@gmail.com,9870505620,2025-01-10,2025-01-15,Tablet,Furniture,4,5000,0.2,16000.0,Cash,5,True,True,Adult,No,Yes
+1061,Pooja Verma,20,Female,Pune,Delhi,user60@gmail.com,9875437844,,2025-01-15,Tablet,Electronics,5,20000,0.15,85000.0,Cash,3,True,True,Young,Yes,No
+1063,Priya Sharma,29,Male,Indore,Uttar Pradesh,user62@gmail.com,9842655866,2025-01-10,2025-01-15,Monitor,Accessories,4,5000,0.0,20000.0,Credit Card,3,True,True,Young,No,No
+1064,Pooja Verma,33,Female,Pune,Uttar Pradesh,user63@gmail.com,9870900658,2025-01-10,2025-01-15,Monitor,Electronics,4,10000,0.2,32000.0,Cash,2,True,True,Adult,Yes,No
+1065,Pooja Verma,23,Male,Surat,Delhi,user64@gmail.com,9874988034,2025-01-10,2025-01-15,Monitor,Accessories,1,20000,0.05,19000.0,Credit Card,5,True,True,Young,No,Yes
+1066,Neha Patel,29,Male,Pune,Delhi,user65@gmail.com,9850569669,2025-01-10,2025-01-15,Laptop,Accessories,5,2500,0.0,12500.0,Credit Card,2,True,True,Young,No,No
+1069,Vikram Joshi,22,Male,Delhi,Madhya Pradesh,user68@gmail.com,9865857931,2025-01-10,2025-01-15,Desk,Accessories,2,1000,0.2,1600.0,Credit Card,2,True,True,Young,No,No
+1070,Sneha Jain,29,Female,Jaipur,Madhya Pradesh,user69@gmail.com,9893352876,2025-01-10,2025-01-15,Laptop,Accessories,5,5000,0.15,21250.0,Credit Card,1,True,True,Young,No,No
+1071,Vikram Joshi,41,Male,Ahmedabad,Delhi,user70@gmail.com,9833328859,2025-01-10,2025-01-15,Chair,Electronics,2,20000,0.05,38000.0,UPI,1,True,True,Adult,Yes,No
+1072,Sneha Jain,29,Male,Surat,Gujarat,user71@gmail.com,9847945817,,2025-01-15,Printer,Electronics,4,5000,0.2,16000.0,Credit Card,2,True,True,Young,No,No
+1073,Neha Patel,33,Male,Surat,Uttar Pradesh,user72@gmail.com,9829997018,2025-01-10,2025-01-15,Monitor,Furniture,3,50000,0.2,120000.0,UPI,1,True,True,Adult,Yes,No
+1074,Kiran Shah,43,Female,Lucknow,Maharashtra,user73@gmail.com,9872907576,2025-01-10,2025-01-15,Monitor,Accessories,1,1000,0.1,900.0,Cash,3,True,True,Adult,No,No
+1075,Sneha Jain,22,Male,Indore,Uttar Pradesh,user74@gmail.com,9853261270,2025-01-10,2025-01-15,Desk,Electronics,5,10000,0.15,42500.0,UPI,1,True,True,Young,Yes,No
+1076,Kiran Shah,50,Male,Jaipur,Madhya Pradesh,user75@gmail.com,9815399803,,2025-01-15,Headphones,Electronics,2,20000,0.2,32000.0,Credit Card,4,True,True,Senior,Yes,No
+1077,Arjun Mehta,40,Female,Delhi,Rajasthan,user76@gmail.com,9856702542,2025-01-10,2025-01-15,Mouse,Electronics,3,1000,0.2,2400.0,Cash,1,True,True,Adult,No,No
+1078,Sneha Jain,29,Female,Mumbai,Rajasthan,abc@,9821819185,2025-01-10,2025-01-15,Keyboard,Electronics,2,2500,0.15,4250.0,Cash,1,True,True,Young,No,No
+1079,Amit Kumar,41,Female,Indore,Maharashtra,user78@gmail.com,9835176902,2025-01-10,2025-01-15,Chair,Electronics,4,50000,0.2,160000.0,Credit Card,4,True,True,Adult,Yes,No
+1080,Neha Patel,28,Male,Jaipur,Rajasthan,user79@gmail.com,9875056916,2025-01-10,2025-01-15,Mobile,Electronics,4,50000,0.0,200000.0,Credit Card,5,True,True,Young,Yes,Yes
+1081,Vikram Joshi,37,Male,Indore,Maharashtra,user80@gmail.com,9840158811,2025-01-10,2025-01-15,Mobile,Electronics,2,20000,0.05,38000.0,UPI,2,True,True,Adult,Yes,No
+1083,Rohit Gupta,43,Male,Delhi,Gujarat,user82@gmail.com,9865692629,2025-01-10,2025-01-15,Keyboard,Furniture,4,1000,0.2,3200.0,Credit Card,3,True,True,Adult,No,No
+1084,Kiran Shah,38,Female,Ahmedabad,Rajasthan,user83@gmail.com,9882287061,2025-01-10,2025-01-15,Printer,Electronics,1,2500,0.1,2250.0,Cash,5,True,True,Adult,No,Yes
+1085,Pooja Verma,47,Male,Surat,Madhya Pradesh,user84@gmail.com,9861401477,2025-01-10,2025-01-15,Tablet,Furniture,5,5000,0.15,21250.0,Cash,1,True,True,Adult,No,No
+1086,Arjun Mehta,32,Male,Lucknow,Maharashtra,user85@gmail.com,9826944487,2025-01-10,2025-01-15,Chair,Accessories,3,20000,0.15,51000.0,Cash,1,True,True,Adult,Yes,No
+1087,Sneha Jain,20,Male,Indore,Uttar Pradesh,user86@gmail.com,9830718012,2025-01-10,2025-01-15,Mobile,Electronics,4,500,0.2,1600.0,Cash,3,True,True,Young,No,No
+1088,Priya Sharma,47,Female,Indore,Gujarat,user87@gmail.com,9894127561,2025-01-10,2025-01-15,Printer,Furniture,5,20000,0.15,85000.0,Credit Card,0,True,True,Adult,Yes,No
+1089,Vikram Joshi,27,Male,Indore,Maharashtra,user88@gmail.com,9895060193,2025-01-10,2025-01-15,Mobile,Electronics,5,500,0.05,2375.0,UPI,3,True,True,Young,No,No
+1090,Amit Kumar,29,Female,Pune,Rajasthan,user89@gmail.com,9829538047,,2025-01-15,Tablet,Accessories,1,500,0.1,450.0,Cash,5,True,True,Young,No,Yes
+1091,Priya Sharma,39,Female,Mumbai,Rajasthan,abc@,9888270025,2025-01-10,2025-01-15,Headphones,Electronics,2,1000,0.05,1900.0,Cash,3,True,True,Adult,No,No
+1092,Sneha Jain,48,Female,Ahmedabad,Maharashtra,user91@gmail.com,9869287967,2025-01-10,2025-01-15,Keyboard,Accessories,4,2500,0.0,10000.0,Cash,4,True,True,Adult,No,No
+1094,Vikram Joshi,20,Male,Lucknow,Gujarat,user93@gmail.com,9840885967,2025-01-10,2025-01-15,Desk,Furniture,3,500,0.15,1275.0,Cash,2,True,True,Young,No,No
+1095,Rahul Singh,40,Male,Mumbai,Gujarat,user94@gmail.com,9869166287,2025-01-10,2025-01-15,Laptop,Accessories,2,10000,0.1,18000.0,Cash,2,True,True,Adult,No,No
+1096,Arjun Mehta,25,Male,Ahmedabad,Madhya Pradesh,user95@gmail.com,9859104566,2025-01-10,2025-01-15,Chair,Accessories,1,2500,0.1,2250.0,Cash,2,True,True,Young,No,No
+1097,Vikram Joshi,43,Female,Delhi,Rajasthan,user96@gmail.com,9820106509,2025-01-10,2025-01-15,Headphones,Furniture,3,50000,0.15,127500.0,UPI,4,True,True,Adult,Yes,No
+1098,Arjun Mehta,20,Female,Delhi,Gujarat,user97@gmail.com,9859470729,2025-01-10,2025-01-15,Monitor,Accessories,5,2500,0.0,12500.0,Cash,3,True,True,Young,No,No
+1099,Sneha Jain,20,Female,Surat,Uttar Pradesh,user98@gmail.com,9818484847,2025-01-10,2025-01-15,Printer,Accessories,1,20000,0.05,19000.0,Cash,4,True,True,Young,No,No
+1100,Amit Kumar,29,Female,Delhi,Maharashtra,user99@gmail.com,9841514326,2025-01-10,2025-01-15,Chair,Electronics,1,1000,0.0,1000.0,Cash,4,True,True,Young,No,No
+1101,Arjun Mehta,38,Male,Indore,Uttar Pradesh,user100@gmail.com,9823290458,2025-01-10,2025-01-15,Printer,Accessories,3,20000,0.2,48000.0,Cash,3,True,True,Adult,Yes,No
+1102,Neha Patel,34,Female,Surat,Gujarat,user101@gmail.com,9823335151,2025-01-10,2025-01-15,Keyboard,Accessories,1,20000,0.1,18000.0,Credit Card,3,True,True,Adult,No,No
+1103,Neha Patel,50,Male,Lucknow,Maharashtra,user102@gmail.com,9898955314,2025-01-10,2025-01-15,Tablet,Accessories,1,5000,0.1,4500.0,Credit Card,5,True,True,Senior,No,Yes
+1104,Neha Patel,24,Male,Delhi,Madhya Pradesh,user103@gmail.com,9837804191,2025-01-10,2025-01-15,Desk,Electronics,1,500,0.1,450.0,UPI,3,True,True,Young,No,No
+1105,Amit Kumar,28,Male,Ahmedabad,Madhya Pradesh,user104@gmail.com,9843642236,2025-01-10,2025-01-15,Headphones,Electronics,2,50000,0.2,80000.0,Credit Card,1,True,True,Young,Yes,No
+1106,Neha Patel,38,Female,Mumbai,Delhi,user105@gmail.com,9845617024,2025-01-10,2025-01-15,Laptop,Electronics,2,500,0.1,900.0,Credit Card,4,True,True,Adult,No,No
+1107,Sneha Jain,34,Female,Delhi,Rajasthan,user106@gmail.com,9877624084,2025-01-10,2025-01-15,Tablet,Accessories,5,500,0.0,2500.0,UPI,5,True,True,Adult,No,Yes
+1108,Amit Kumar,35,Female,Indore,Uttar Pradesh,user107@gmail.com,9824490391,2025-01-10,2025-01-15,Printer,Accessories,3,5000,0.0,15000.0,Cash,1,True,True,Adult,No,No
+1109,Rahul Singh,22,Male,Jaipur,Madhya Pradesh,user108@gmail.com,9894970119,2025-01-10,2025-01-15,Desk,Accessories,1,2500,0.2,2000.0,Credit Card,3,True,True,Young,No,No
+1110,Vikram Joshi,33,Female,Delhi,Uttar Pradesh,user109@gmail.com,9825356396,2025-01-10,2025-01-15,Chair,Accessories,4,10000,0.2,32000.0,UPI,4,True,True,Adult,Yes,No
+1111,Pooja Verma,46,Female,Indore,Rajasthan,user110@gmail.com,9822762205,2025-01-10,2025-01-15,Keyboard,Electronics,4,1000,0.15,3400.0,Cash,3,True,True,Adult,No,No
+1112,Priya Sharma,22,Male,Delhi,Rajasthan,user111@gmail.com,9822960658,2025-01-10,2025-01-15,Keyboard,Furniture,3,1000,0.15,2550.0,UPI,5,True,True,Young,No,Yes
+1113,Rohit Gupta,30,Male,Indore,Gujarat,user112@gmail.com,9899300492,,2025-01-15,Mouse,Furniture,1,10000,0.2,8000.0,Credit Card,1,True,True,Adult,No,No
+1114,Pooja Verma,23,Male,Ahmedabad,Gujarat,user113@gmail.com,9874718365,2025-01-10,2025-01-15,Tablet,Furniture,3,10000,0.1,27000.0,UPI,3,True,True,Young,No,No
+1115,Vikram Joshi,38,Male,Indore,Madhya Pradesh,user114@gmail.com,9893446356,2025-01-10,2025-01-15,Desk,Accessories,5,2500,0.0,12500.0,Credit Card,5,True,True,Adult,No,Yes
+1116,Amit Kumar,25,Female,Jaipur,Gujarat,user115@gmail.com,9857113566,2025-01-10,2025-01-15,Laptop,Electronics,1,10000,0.1,9000.0,UPI,5,True,True,Young,No,Yes
+1117,Amit Kumar,22,Male,Indore,Rajasthan,user116@gmail.com,9870887307,2025-01-10,2025-01-15,Keyboard,Electronics,4,500,0.05,1900.0,Cash,3,True,True,Young,No,No
+1118,Kiran Shah,22,Male,Ahmedabad,Delhi,user117@gmail.com,9892924837,2025-01-10,2025-01-15,Laptop,Accessories,3,50000,0.2,120000.0,UPI,3,True,True,Young,Yes,No
+1119,Sneha Jain,39,Female,Indore,Gujarat,user118@gmail.com,9838933176,2025-01-10,2025-01-15,Chair,Electronics,4,20000,0.15,68000.0,Cash,4,True,True,Adult,Yes,No
+1121,Vikram Joshi,29,Female,Delhi,Maharashtra,user120@gmail.com,9876757928,2025-01-10,2025-01-15,Mouse,Electronics,3,1000,0.05,2850.0,UPI,4,True,True,Young,No,No
+1122,Rohit Gupta,37,Female,Delhi,Rajasthan,user121@gmail.com,9815677713,2025-01-10,2025-01-15,Mouse,Electronics,5,20000,0.05,95000.0,Cash,1,True,True,Adult,Yes,No
+1123,Kiran Shah,32,Female,Jaipur,Maharashtra,user122@gmail.com,9864362516,2025-01-10,2025-01-15,Laptop,Electronics,3,10000,0.15,25500.0,UPI,5,True,True,Adult,No,Yes
+1124,Priya Sharma,33,Male,Surat,Rajasthan,user123@gmail.com,9889036966,,2025-01-15,Mouse,Accessories,4,50000,0.1,180000.0,UPI,4,True,True,Adult,Yes,No
+1125,Neha Patel,30,Male,Delhi,Madhya Pradesh,user124@gmail.com,9894989976,2025-01-10,2025-01-15,Mobile,Accessories,3,20000,0.1,54000.0,Credit Card,2,True,True,Adult,Yes,No
+1126,Neha Patel,23,Male,Jaipur,Delhi,user125@gmail.com,9833286644,2025-01-10,2025-01-15,Desk,Electronics,3,2500,0.05,7125.0,Credit Card,1,True,True,Young,No,No
+1127,Sneha Jain,44,Female,Pune,Gujarat,user126@gmail.com,9852431444,2025-01-10,2025-01-15,Headphones,Electronics,2,50000,0.15,85000.0,UPI,4,True,True,Adult,Yes,No
+1129,Priya Sharma,40,Male,Indore,Rajasthan,user128@gmail.com,9887890494,2025-01-10,2025-01-15,Chair,Furniture,1,2500,0.1,2250.0,Credit Card,1,True,True,Adult,No,No
+1130,Neha Patel,30,Female,Ahmedabad,Maharashtra,user129@gmail.com,9870468188,2025-01-10,2025-01-15,Mobile,Furniture,4,50000,0.2,160000.0,Cash,1,True,True,Adult,Yes,No
+1131,Amit Kumar,27,Female,Lucknow,Madhya Pradesh,user130@gmail.com,9880162053,2025-01-10,2025-01-15,Desk,Electronics,5,20000,0.05,95000.0,Cash,3,True,True,Young,Yes,No
+1132,Pooja Verma,41,Male,Pune,Maharashtra,user131@gmail.com,9854250344,2025-01-10,2025-01-15,Mobile,Accessories,3,5000,0.15,12750.0,Credit Card,6,True,True,Adult,No,Yes
+1133,Rahul Singh,30,Male,Ahmedabad,Gujarat,user132@gmail.com,9851638598,2025-01-10,2025-01-15,Mouse,Electronics,3,2500,0.2,6000.0,Credit Card,1,True,True,Adult,No,No
+1134,Pooja Verma,46,Male,Delhi,Uttar Pradesh,user133@gmail.com,9899987086,2025-01-10,2025-01-15,Mouse,Accessories,3,10000,0.15,25500.0,Cash,1,True,True,Adult,No,No
+1135,Neha Patel,30,Female,Surat,Delhi,user134@gmail.com,9828463709,2025-01-10,2025-01-15,Headphones,Electronics,3,2500,0.05,7125.0,Cash,1,True,True,Adult,No,No
+1136,Rohit Gupta,21,Female,Ahmedabad,Madhya Pradesh,user135@gmail.com,9860562485,2025-01-10,2025-01-15,Headphones,Electronics,5,50000,0.2,200000.0,UPI,5,True,True,Young,Yes,Yes
+1137,Amit Kumar,33,Female,Surat,Rajasthan,user136@gmail.com,9891952730,2025-01-10,2025-01-15,Monitor,Furniture,2,20000,0.15,34000.0,Credit Card,4,True,True,Adult,Yes,No
+1138,Vikram Joshi,50,Female,Surat,Gujarat,user137@gmail.com,9886560394,2025-01-10,2025-01-15,Printer,Electronics,2,10000,0.05,19000.0,Cash,4,True,True,Senior,No,No
+1139,Rahul Singh,46,Male,Ahmedabad,Gujarat,user138@gmail.com,9817003454,2025-01-10,2025-01-15,Printer,Furniture,5,10000,0.15,42500.0,Cash,5,True,True,Adult,Yes,Yes
+1140,Priya Sharma,29,Male,Ahmedabad,Gujarat,user139@gmail.com,9870306604,2025-01-10,2025-01-15,Chair,Electronics,1,20000,0.2,16000.0,Cash,1,True,True,Young,No,No
+1141,Pooja Verma,49,Male,Indore,Maharashtra,user140@gmail.com,9863211150,2025-01-10,2025-01-15,Chair,Electronics,2,50000,0.15,85000.0,UPI,4,True,True,Adult,Yes,No
+1142,Amit Kumar,30,Male,Pune,Delhi,user141@gmail.com,9828468304,2025-01-10,2025-01-15,Laptop,Electronics,1,2500,0.05,2375.0,Cash,2,True,True,Adult,No,No
+1143,Amit Kumar,48,Male,Mumbai,Gujarat,user142@gmail.com,9838944689,2025-01-10,2025-01-15,Headphones,Accessories,4,5000,0.2,16000.0,Credit Card,5,True,True,Adult,No,Yes
+1144,Vikram Joshi,27,Female,Delhi,Maharashtra,user143@gmail.com,9842002808,2025-01-10,2025-01-15,Mouse,Accessories,5,5000,0.0,25000.0,Credit Card,4,True,True,Young,No,No
+1145,Kiran Shah,37,Male,Surat,Uttar Pradesh,user144@gmail.com,9829270557,2025-01-10,2025-01-15,Monitor,Electronics,1,500,0.15,425.0,UPI,5,True,True,Adult,No,Yes
+1146,Arjun Mehta,25,Male,Pune,Maharashtra,amitgmail.com,9880606503,2025-01-10,2025-01-15,Chair,Accessories,3,1000,0.2,2400.0,Credit Card,5,True,True,Young,No,Yes
+1147,Amit Kumar,40,Female,Pune,Gujarat,user146@gmail.com,9812179995,2025-01-10,2025-01-15,Keyboard,Furniture,1,5000,0.15,4250.0,UPI,3,True,True,Adult,No,No
+1148,Kiran Shah,43,Female,Ahmedabad,Maharashtra,user147@gmail.com,9857284777,2025-01-10,2025-01-15,Chair,Electronics,2,20000,0.0,40000.0,Credit Card,2,True,True,Adult,Yes,No
+1149,Rahul Singh,33,Male,Delhi,Uttar Pradesh,user148@gmail.com,9871428713,2025-01-10,2025-01-15,Laptop,Electronics,4,20000,0.15,68000.0,UPI,1,True,True,Adult,Yes,No
+1150,Vikram Joshi,36,Female,Delhi,Gujarat,user149@gmail.com,9814915156,2025-01-10,2025-01-15,Tablet,Electronics,2,500,0.1,900.0,Cash,1,True,True,Adult,No,No
+1151,Pooja Verma,33,Female,Lucknow,Gujarat,user150@gmail.com,9855504725,2025-01-10,2025-01-15,Headphones,Electronics,3,2500,0.0,7500.0,Credit Card,4,True,True,Adult,No,No
+1153,Priya Sharma,33,Female,Jaipur,Rajasthan,user152@gmail.com,9890882505,2025-01-10,2025-01-15,Mouse,Electronics,3,2500,0.0,7500.0,Credit Card,4,True,True,Adult,No,No
+1154,Pooja Verma,39,Female,Jaipur,Uttar Pradesh,user153@gmail.com,9817698469,2025-01-10,2025-01-15,Mobile,Accessories,3,5000,0.0,15000.0,Credit Card,4,True,True,Adult,No,No
+1155,Amit Kumar,24,Female,Mumbai,Delhi,user154@gmail.com,9819023909,2025-01-10,2025-01-15,Tablet,Furniture,3,10000,0.05,28500.0,Credit Card,3,True,True,Young,No,No
+1156,Amit Kumar,39,Male,Lucknow,Gujarat,user155@gmail.com,9859930790,2025-01-10,2025-01-15,Printer,Furniture,3,5000,0.2,12000.0,UPI,5,True,True,Adult,No,Yes
+1157,Arjun Mehta,30,Female,Surat,Maharashtra,user156@gmail.com,9813478029,2025-01-10,2025-01-15,Headphones,Electronics,2,10000,0.1,18000.0,Credit Card,6,True,True,Adult,No,Yes
+1158,Vikram Joshi,42,Female,Surat,Madhya Pradesh,user157@gmail.com,9848329479,2025-01-10,2025-01-15,Printer,Electronics,5,500,0.1,2250.0,UPI,2,True,True,Adult,No,No
+1160,Pooja Verma,36,Male,Delhi,Delhi,user159@gmail.com,9828639738,2025-01-10,2025-01-15,Tablet,Furniture,2,20000,0.05,38000.0,Cash,1,True,True,Adult,Yes,No
+1161,Pooja Verma,34,Male,Delhi,Maharashtra,user160@gmail.com,9851512297,2025-01-10,2025-01-15,Mouse,Accessories,3,10000,0.2,24000.0,Credit Card,4,True,True,Adult,No,No
+1162,Kiran Shah,22,Male,Pune,Uttar Pradesh,user161@gmail.com,9819954260,2025-01-10,2025-01-15,Printer,Electronics,5,5000,0.15,21250.0,Credit Card,5,True,True,Young,No,Yes
+1163,Kiran Shah,25,Male,Indore,Madhya Pradesh,user162@gmail.com,9817437386,2025-01-10,2025-01-15,Mobile,Accessories,3,1000,0.2,2400.0,UPI,3,True,True,Young,No,No
+1164,Neha Patel,31,Female,Delhi,Gujarat,user163@gmail.com,9836347197,2025-01-10,2025-01-15,Chair,Electronics,2,1000,0.1,1800.0,UPI,3,True,True,Adult,No,No
+1165,Rohit Gupta,40,Male,Ahmedabad,Delhi,abc@,9898413629,2025-01-10,2025-01-15,Desk,Accessories,5,10000,0.0,50000.0,Credit Card,3,True,True,Adult,Yes,No
+1166,Priya Sharma,33,Female,Surat,Madhya Pradesh,user165@gmail.com,9865913331,2025-01-10,2025-01-15,Desk,Accessories,5,500,0.0,2500.0,UPI,4,True,True,Adult,No,No
+1167,Sneha Jain,27,Female,Jaipur,Gujarat,user166@gmail.com,9819794273,2025-01-10,2025-01-15,Laptop,Electronics,5,2500,0.1,11250.0,Cash,4,True,True,Young,No,No
+1168,Pooja Verma,39,Male,Pune,Uttar Pradesh,user167@gmail.com,9852857920,2025-01-10,2025-01-15,Keyboard,Electronics,4,5000,0.05,19000.0,UPI,3,True,True,Adult,No,No
+1169,Pooja Verma,27,Female,Delhi,Gujarat,user168@gmail.com,9870343755,2025-01-10,2025-01-15,Tablet,Electronics,5,10000,0.0,50000.0,UPI,1,True,True,Young,Yes,No
+1171,Vikram Joshi,35,Male,Delhi,Rajasthan,user170@gmail.com,9877839607,2025-01-10,2025-01-15,Printer,Electronics,5,5000,0.15,21250.0,UPI,5,True,True,Adult,No,Yes
+1172,Vikram Joshi,35,Female,Jaipur,Madhya Pradesh,user171@gmail.com,9811097552,2025-01-10,2025-01-15,Mobile,Electronics,3,500,0.0,1500.0,UPI,3,True,True,Adult,No,No
+1173,Pooja Verma,21,Female,Mumbai,Madhya Pradesh,user172@gmail.com,9885405783,2025-01-10,2025-01-15,Tablet,Electronics,3,50000,0.15,127500.0,Credit Card,3,True,True,Young,Yes,No
+1174,Sneha Jain,44,Female,Delhi,Delhi,user173@gmail.com,9822976369,2025-01-10,2025-01-15,Mouse,Electronics,1,5000,0.2,4000.0,Cash,5,True,True,Adult,No,Yes
+1176,Kiran Shah,33,Male,Pune,Madhya Pradesh,user175@gmail.com,9852752377,2025-01-10,2025-01-15,Headphones,Electronics,5,5000,0.05,23750.0,Credit Card,3,True,True,Adult,No,No
+1177,Rohit Gupta,37,Female,Mumbai,Rajasthan,user176@gmail.com,9812232974,2025-01-10,2025-01-15,Keyboard,Electronics,5,2500,0.2,10000.0,Credit Card,1,True,True,Adult,No,No
+1178,Amit Kumar,39,Female,Jaipur,Uttar Pradesh,user177@gmail.com,9887641510,2025-01-10,2025-01-15,Desk,Electronics,4,10000,0.1,36000.0,Credit Card,1,True,True,Adult,Yes,No
+1180,Pooja Verma,33,Male,Indore,Uttar Pradesh,user179@gmail.com,9837365878,2025-01-10,2025-01-15,Mouse,Accessories,2,500,0.15,850.0,Credit Card,4,True,True,Adult,No,No
+1181,Rohit Gupta,26,Female,Lucknow,Madhya Pradesh,user180@gmail.com,9860576565,2025-01-10,2025-01-15,Keyboard,Electronics,1,20000,0.05,19000.0,Cash,5,True,True,Young,No,Yes
+1182,Vikram Joshi,39,Female,Surat,Delhi,user181@gmail.com,9847447604,2025-01-10,2025-01-15,Chair,Electronics,3,10000,0.1,27000.0,UPI,3,True,True,Adult,No,No
+1183,Sneha Jain,33,Female,Pune,Madhya Pradesh,user182@gmail.com,9846702849,2025-01-10,2025-01-15,Monitor,Electronics,3,20000,0.05,57000.0,Credit Card,5,True,True,Adult,Yes,Yes
+1184,Rahul Singh,29,Male,Jaipur,Uttar Pradesh,user183@gmail.com,9820607151,2025-01-10,2025-01-15,Keyboard,Electronics,4,5000,0.1,18000.0,Credit Card,3,True,True,Young,No,No
+1185,Rohit Gupta,28,Female,Ahmedabad,Maharashtra,user184@gmail.com,9892634772,2025-01-10,2025-01-15,Desk,Electronics,4,1000,0.05,3800.0,UPI,1,True,True,Young,No,No
+1186,Amit Kumar,23,Female,Delhi,Uttar Pradesh,user185@gmail.com,9873404979,2025-01-10,2025-01-15,Mobile,Accessories,5,1000,0.05,4750.0,UPI,1,True,True,Young,No,No
+1188,Rahul Singh,33,Male,Mumbai,Rajasthan,user187@gmail.com,9876489301,2025-01-10,2025-01-15,Headphones,Accessories,2,10000,0.0,20000.0,Cash,1,True,True,Adult,No,No
+1189,Kiran Shah,23,Female,Jaipur,Gujarat,user188@gmail.com,9896075494,2025-01-10,2025-01-15,Chair,Accessories,1,2500,0.2,2000.0,Cash,2,True,True,Young,No,No
+1190,Neha Patel,45,Male,Pune,Delhi,user189@gmail.com,9871594457,2025-01-10,2025-01-15,Monitor,Accessories,5,5000,0.1,22500.0,UPI,1,True,True,Adult,No,No
+1191,Kiran Shah,41,Male,Ahmedabad,Madhya Pradesh,user190@gmail.com,9895728324,2025-01-10,2025-01-15,Mouse,Furniture,3,50000,0.1,135000.0,Cash,5,True,True,Adult,Yes,Yes
+1192,Priya Sharma,25,Male,Lucknow,Gujarat,user191@gmail.com,9843292316,2025-01-10,2025-01-15,Laptop,Electronics,3,500,0.15,1275.0,Cash,2,True,True,Young,No,No
+1193,Pooja Verma,29,Male,Jaipur,Uttar Pradesh,user192@gmail.com,9858258264,2025-01-10,2025-01-15,Tablet,Electronics,4,50000,0.1,180000.0,Credit Card,1,True,True,Young,Yes,No
+1194,Arjun Mehta,41,Female,Jaipur,Uttar Pradesh,user193@gmail.com,9849599276,2025-01-10,2025-01-15,Keyboard,Accessories,4,2500,0.05,9500.0,UPI,2,True,True,Adult,No,No
+1195,Sneha Jain,43,Female,Indore,Uttar Pradesh,user194@gmail.com,9883717007,2025-01-10,2025-01-15,Printer,Furniture,2,5000,0.05,9500.0,Credit Card,2,True,True,Adult,No,No
+1196,Priya Sharma,36,Female,Pune,Maharashtra,user195@gmail.com,9885721444,2025-01-10,2025-01-15,Mobile,Electronics,2,20000,0.2,32000.0,Credit Card,0,True,True,Adult,Yes,No
+1197,Rahul Singh,33,Female,Lucknow,Maharashtra,user196@gmail.com,9837568520,2025-01-10,2025-01-15,Desk,Electronics,2,10000,0.2,16000.0,UPI,5,True,True,Adult,No,Yes
+1198,Sneha Jain,24,Female,Lucknow,Madhya Pradesh,user197@gmail.com,9817749299,2025-01-10,2025-01-15,Chair,Electronics,4,50000,0.0,200000.0,Credit Card,3,True,True,Young,Yes,No
+1199,Amit Kumar,43,Male,Delhi,Maharashtra,user198@gmail.com,9866867700,2025-01-10,2025-01-15,Keyboard,Accessories,1,5000,0.1,4500.0,UPI,5,True,True,Adult,No,Yes
+1201,Rohit Gupta,24,Female,Delhi,Delhi,user200@gmail.com,9882109613,2025-01-10,2025-01-15,Mouse,Accessories,4,5000,0.0,20000.0,UPI,2,True,True,Young,No,No
+1202,Vikram Joshi,34,Female,Indore,Delhi,user201@gmail.com,9843220503,,2025-01-15,Printer,Electronics,1,50000,0.0,50000.0,UPI,3,True,True,Adult,Yes,No
+1203,Amit Kumar,45,Female,Mumbai,Delhi,amitgmail.com,9837659807,2025-01-10,2025-01-15,Mobile,Electronics,2,20000,0.0,40000.0,Credit Card,1,True,True,Adult,Yes,No
+1205,Kiran Shah,30,Female,Surat,Gujarat,user204@gmail.com,9829228089,2025-01-10,2025-01-15,Chair,Electronics,5,2500,0.05,11875.0,Cash,3,True,True,Adult,No,No
+1206,Kiran Shah,48,Male,Indore,Madhya Pradesh,user205@gmail.com,9876521096,2025-01-10,2025-01-15,Laptop,Electronics,3,500,0.2,1200.0,Credit Card,4,True,True,Adult,No,No
+1207,Arjun Mehta,24,Female,Indore,Delhi,user206@gmail.com,9882199509,2025-01-10,2025-01-15,Printer,Electronics,5,2500,0.15,10625.0,UPI,3,True,True,Young,No,No
+1208,Amit Kumar,37,Female,Indore,Madhya Pradesh,user207@gmail.com,9881134297,2025-01-10,2025-01-15,Headphones,Electronics,2,50000,0.15,85000.0,UPI,3,True,True,Adult,Yes,No
+1210,Neha Patel,45,Male,Lucknow,Delhi,user209@gmail.com,9854689713,2025-01-10,2025-01-15,Monitor,Electronics,5,500,0.0,2500.0,UPI,2,True,True,Adult,No,No
+1211,Neha Patel,42,Male,Indore,Delhi,user210@gmail.com,9884098828,2025-01-10,2025-01-15,Keyboard,Furniture,1,20000,0.15,17000.0,Cash,4,True,True,Adult,No,No
+1212,Vikram Joshi,33,Female,Lucknow,Rajasthan,user211@gmail.com,9823234972,2025-01-10,2025-01-15,Printer,Furniture,4,10000,0.1,36000.0,Cash,2,True,True,Adult,Yes,No
+1213,Amit Kumar,38,Male,Delhi,Maharashtra,user212@gmail.com,9845000508,2025-01-10,2025-01-15,Chair,Accessories,3,2500,0.15,6375.0,Credit Card,4,True,True,Adult,No,No
+1214,Pooja Verma,27,Female,Surat,Rajasthan,amitgmail.com,9883905989,2025-01-10,2025-01-15,Keyboard,Electronics,3,1000,0.05,2850.0,Cash,4,True,True,Young,No,No
+1215,Rahul Singh,24,Female,Jaipur,Madhya Pradesh,user214@gmail.com,9896142207,2025-01-10,2025-01-15,Laptop,Accessories,4,1000,0.1,3600.0,UPI,1,True,True,Young,No,No
+1216,Arjun Mehta,24,Male,Delhi,Uttar Pradesh,user215@gmail.com,9830270856,2025-01-10,2025-01-15,Laptop,Electronics,1,50000,0.0,50000.0,Credit Card,4,True,True,Young,Yes,No
+1217,Kiran Shah,49,Female,Lucknow,Maharashtra,amitgmail.com,9810887495,2025-01-10,2025-01-15,Chair,Accessories,3,500,0.2,1200.0,Cash,1,True,True,Adult,No,No
+1218,Rohit Gupta,29,Male,Indore,Delhi,user217@gmail.com,9824363501,2025-01-10,2025-01-15,Mobile,Accessories,1,10000,0.1,9000.0,UPI,2,True,True,Young,No,No
+1219,Vikram Joshi,33,Female,Jaipur,Rajasthan,user218@gmail.com,9820605783,2025-01-10,2025-01-15,Keyboard,Electronics,2,10000,0.2,16000.0,Cash,5,True,True,Adult,No,Yes
+1220,Vikram Joshi,41,Male,Mumbai,Maharashtra,user219@gmail.com,9864395532,2025-01-10,2025-01-15,Mouse,Electronics,2,20000,0.05,38000.0,Credit Card,4,True,True,Adult,Yes,No
+1221,Rahul Singh,22,Female,Indore,Uttar Pradesh,user220@gmail.com,9854462389,2025-01-10,2025-01-15,Desk,Furniture,1,20000,0.0,20000.0,UPI,5,True,True,Young,No,Yes
+1222,Kiran Shah,33,Female,Mumbai,Maharashtra,user221@gmail.com,9847631028,2025-01-10,2025-01-15,Chair,Accessories,1,1000,0.05,950.0,Credit Card,1,True,True,Adult,No,No
+1223,Amit Kumar,50,Male,Ahmedabad,Uttar Pradesh,user222@gmail.com,9863458386,2025-01-10,2025-01-15,Mobile,Electronics,2,50000,0.1,90000.0,UPI,5,True,True,Senior,Yes,Yes
+1224,Rohit Gupta,30,Female,Ahmedabad,Uttar Pradesh,user223@gmail.com,9820526386,,2025-01-15,Chair,Accessories,2,10000,0.15,17000.0,Cash,1,True,True,Adult,No,No
+1225,Priya Sharma,30,Female,Pune,Maharashtra,user224@gmail.com,9895110541,2025-01-10,2025-01-15,Monitor,Furniture,1,5000,0.05,4750.0,Cash,6,True,True,Adult,No,Yes
+1226,Arjun Mehta,33,Male,Indore,Maharashtra,user225@gmail.com,9893029219,2025-01-10,2025-01-15,Monitor,Furniture,2,2500,0.2,4000.0,UPI,1,True,True,Adult,No,No
+1227,Arjun Mehta,33,Male,Indore,Gujarat,user226@gmail.com,9858412365,2025-01-10,2025-01-15,Mobile,Electronics,1,2500,0.05,2375.0,UPI,3,True,True,Adult,No,No
+1228,Priya Sharma,24,Male,Ahmedabad,Rajasthan,user227@gmail.com,9870242778,2025-01-10,2025-01-15,Chair,Accessories,4,2500,0.1,9000.0,Credit Card,4,True,True,Young,No,No
+1229,Pooja Verma,37,Male,Pune,Rajasthan,user228@gmail.com,9811656329,2025-01-10,2025-01-15,Monitor,Electronics,1,500,0.0,500.0,Cash,1,True,True,Adult,No,No
+1230,Rohit Gupta,25,Female,Mumbai,Delhi,user229@gmail.com,9846093692,2025-01-10,2025-01-15,Monitor,Electronics,5,1000,0.2,4000.0,Cash,2,True,True,Young,No,No
+1232,Sneha Jain,23,Male,Jaipur,Maharashtra,user231@gmail.com,9863108878,2025-01-10,2025-01-15,Keyboard,Furniture,5,10000,0.05,47500.0,Credit Card,4,True,True,Young,Yes,No
+1233,Arjun Mehta,46,Male,Jaipur,Gujarat,user232@gmail.com,9890961645,2025-01-10,2025-01-15,Tablet,Electronics,3,5000,0.1,13500.0,Cash,2,True,True,Adult,No,No
+1234,Sneha Jain,33,Male,Pune,Rajasthan,user233@gmail.com,9847621248,2025-01-10,2025-01-15,Mouse,Electronics,4,2500,0.1,9000.0,UPI,5,True,True,Adult,No,Yes
+1235,Rahul Singh,41,Male,Lucknow,Uttar Pradesh,user234@gmail.com,9838138531,2025-01-10,2025-01-15,Printer,Furniture,2,10000,0.2,16000.0,Cash,1,True,True,Adult,No,No
+1237,Sneha Jain,38,Female,Indore,Madhya Pradesh,amitgmail.com,9814934536,2025-01-10,2025-01-15,Keyboard,Accessories,1,5000,0.2,4000.0,Credit Card,5,True,True,Adult,No,Yes
+1238,Pooja Verma,33,Male,Jaipur,Gujarat,user237@gmail.com,9867774765,2025-01-10,2025-01-15,Mobile,Electronics,1,500,0.05,475.0,UPI,3,True,True,Adult,No,No
+1239,Rohit Gupta,38,Male,Lucknow,Gujarat,user238@gmail.com,9862497139,2025-01-10,2025-01-15,Printer,Furniture,2,10000,0.2,16000.0,Credit Card,5,True,True,Adult,No,Yes
+1240,Amit Kumar,35,Male,Jaipur,Rajasthan,user239@gmail.com,9821523236,2025-01-10,2025-01-15,Mobile,Furniture,5,1000,0.1,4500.0,Credit Card,2,True,True,Adult,No,No
+1241,Sneha Jain,45,Male,Lucknow,Gujarat,user240@gmail.com,9873909453,2025-01-10,2025-01-15,Mobile,Electronics,3,2500,0.1,6750.0,Credit Card,4,True,True,Adult,No,No
+1242,Amit Kumar,45,Male,Mumbai,Gujarat,user241@gmail.com,9896969050,2025-01-10,2025-01-15,Mobile,Accessories,3,500,0.1,1350.0,UPI,2,True,True,Adult,No,No
+1243,Rahul Singh,30,Female,Lucknow,Delhi,@gmail.com,9864364546,2025-01-10,2025-01-15,Headphones,Electronics,5,1000,0.2,4000.0,Credit Card,4,True,True,Adult,No,No
+1245,Rahul Singh,31,Female,Surat,Rajasthan,amitgmail.com,9825294777,2025-01-10,2025-01-15,Monitor,Accessories,5,500,0.2,2000.0,Cash,5,True,True,Adult,No,Yes
+1246,Kiran Shah,32,Male,Pune,Gujarat,user245@gmail.com,9871453007,2025-01-10,2025-01-15,Desk,Electronics,3,10000,0.15,25500.0,Credit Card,3,True,True,Adult,No,No
+1247,Rahul Singh,30,Male,Surat,Gujarat,user246@gmail.com,9825696616,2025-01-10,2025-01-15,Headphones,Electronics,5,10000,0.0,50000.0,Credit Card,2,True,True,Adult,Yes,No
+1248,Kiran Shah,24,Female,Indore,Delhi,user247@gmail.com,9875319770,2025-01-10,2025-01-15,Chair,Accessories,5,5000,0.15,21250.0,Credit Card,2,True,True,Young,No,No
+1250,Arjun Mehta,50,Female,Indore,Uttar Pradesh,user249@gmail.com,9875998330,2025-01-10,2025-01-15,Mouse,Accessories,4,1000,0.05,3800.0,Cash,4,True,True,Senior,No,No
+1251,Amit Kumar,45,Male,Jaipur,Maharashtra,user250@gmail.com,9846890134,2025-01-10,2025-01-15,Tablet,Accessories,2,500,0.2,800.0,Cash,2,True,True,Adult,No,No
+1252,Rohit Gupta,36,Male,Delhi,Gujarat,user251@gmail.com,9882894477,2025-01-10,2025-01-15,Keyboard,Accessories,4,10000,0.15,34000.0,UPI,4,True,True,Adult,Yes,No
+1253,Priya Sharma,43,Male,Jaipur,Maharashtra,user252@gmail.com,9870362053,2025-01-10,2025-01-15,Monitor,Electronics,5,1000,0.15,4250.0,UPI,4,True,True,Adult,No,No
+1254,Neha Patel,45,Female,Indore,Delhi,user253@gmail.com,9892698414,2025-01-10,2025-01-15,Headphones,Furniture,1,50000,0.05,47500.0,UPI,2,True,True,Adult,Yes,No
+1256,Amit Kumar,28,Male,Ahmedabad,Delhi,user255@gmail.com,9829628462,2025-01-10,2025-01-15,Keyboard,Furniture,1,1000,0.15,850.0,UPI,4,True,True,Young,No,No
+1257,Vikram Joshi,40,Female,Indore,Rajasthan,user256@gmail.com,9820135622,2025-01-10,2025-01-15,Mobile,Electronics,4,1000,0.2,3200.0,Credit Card,3,True,True,Adult,No,No
+1258,Pooja Verma,38,Male,Delhi,Uttar Pradesh,user257@gmail.com,9871532017,2025-01-10,2025-01-15,Keyboard,Furniture,3,5000,0.15,12750.0,UPI,5,True,True,Adult,No,Yes
+1259,Neha Patel,35,Female,Pune,Gujarat,user258@gmail.com,9855332729,2025-01-10,2025-01-15,Chair,Accessories,4,1000,0.15,3400.0,UPI,5,True,True,Adult,No,Yes
+1260,Amit Kumar,21,Male,Lucknow,Maharashtra,user259@gmail.com,9826674831,2025-01-10,2025-01-15,Headphones,Electronics,4,50000,0.1,180000.0,Cash,1,True,True,Young,Yes,No
+1261,Vikram Joshi,25,Female,Delhi,Gujarat,user260@gmail.com,9858376818,2025-01-10,2025-01-15,Monitor,Electronics,4,1000,0.05,3800.0,Cash,2,True,True,Young,No,No
+1262,Neha Patel,33,Male,Delhi,Maharashtra,user261@gmail.com,9838644905,2025-01-10,2025-01-15,Printer,Electronics,1,5000,0.1,4500.0,UPI,5,True,True,Adult,No,Yes
+1263,Amit Kumar,20,Female,Delhi,Rajasthan,user262@gmail.com,9827740248,2025-01-10,2025-01-15,Printer,Electronics,2,10000,0.15,17000.0,UPI,4,True,True,Young,No,No
+1264,Priya Sharma,30,Female,Jaipur,Delhi,user263@gmail.com,9861367949,2025-01-10,2025-01-15,Headphones,Accessories,1,20000,0.0,20000.0,Credit Card,2,True,True,Adult,No,No
+1265,Amit Kumar,39,Male,Lucknow,Gujarat,user264@gmail.com,9838595818,2025-01-10,2025-01-15,Headphones,Electronics,1,10000,0.2,8000.0,Credit Card,0,True,True,Adult,No,No
+1266,Rahul Singh,44,Male,Indore,Gujarat,user265@gmail.com,9867631581,2025-01-10,2025-01-15,Keyboard,Furniture,2,500,0.0,1000.0,UPI,2,True,True,Adult,No,No
+1267,Neha Patel,33,Female,Mumbai,Uttar Pradesh,user266@gmail.com,9850486688,2025-01-10,2025-01-15,Tablet,Accessories,3,20000,0.0,60000.0,Credit Card,5,True,True,Adult,Yes,Yes
+1268,Vikram Joshi,40,Male,Surat,Rajasthan,user267@gmail.com,9861792685,2025-01-10,2025-01-15,Mobile,Electronics,2,20000,0.15,34000.0,Cash,5,True,True,Adult,Yes,Yes
+1269,Pooja Verma,49,Female,Ahmedabad,Rajasthan,amitgmail.com,9886286724,2025-01-10,2025-01-15,Mouse,Electronics,1,10000,0.0,10000.0,Credit Card,2,True,True,Adult,No,No
+1271,Arjun Mehta,33,Female,Delhi,Uttar Pradesh,user270@gmail.com,9882016510,2025-01-10,2025-01-15,Chair,Accessories,3,20000,0.2,48000.0,UPI,3,True,True,Adult,Yes,No
+1273,Neha Patel,21,Male,Delhi,Rajasthan,user272@gmail.com,9825567455,2025-01-10,2025-01-15,Printer,Accessories,3,20000,0.15,51000.0,Credit Card,1,True,True,Young,Yes,No
+1274,Priya Sharma,20,Male,Mumbai,Delhi,user273@gmail.com,9876627415,2025-01-10,2025-01-15,Keyboard,Accessories,3,20000,0.05,57000.0,Credit Card,3,True,True,Young,Yes,No
+1275,Vikram Joshi,43,Male,Mumbai,Gujarat,user274@gmail.com,9867622968,2025-01-10,2025-01-15,Monitor,Accessories,2,2500,0.05,4750.0,UPI,3,True,True,Adult,No,No
+1276,Sneha Jain,34,Female,Mumbai,Rajasthan,user275@gmail.com,9886086168,2025-01-10,2025-01-15,Headphones,Electronics,5,20000,0.0,100000.0,UPI,3,True,True,Adult,Yes,No
+1277,Neha Patel,43,Male,Mumbai,Maharashtra,user276@gmail.com,9842823140,2025-01-10,2025-01-15,Laptop,Electronics,1,10000,0.0,10000.0,Cash,4,True,True,Adult,No,No
+1278,Rohit Gupta,45,Female,Surat,Gujarat,user277@gmail.com,9843321320,2025-01-10,2025-01-15,Mouse,Accessories,2,1000,0.0,2000.0,Cash,3,True,True,Adult,No,No
+1279,Priya Sharma,36,Male,Ahmedabad,Delhi,user278@gmail.com,9879226031,2025-01-10,2025-01-15,Laptop,Electronics,1,10000,0.1,9000.0,UPI,4,True,True,Adult,No,No
+1280,Pooja Verma,22,Female,Mumbai,Gujarat,user279@gmail.com,9836933626,2025-01-10,2025-01-15,Monitor,Accessories,3,50000,0.1,135000.0,Cash,5,True,True,Young,Yes,Yes
+1281,Kiran Shah,35,Male,Surat,Delhi,user280@gmail.com,9810856024,2025-01-10,2025-01-15,Mouse,Electronics,2,5000,0.1,9000.0,UPI,5,True,True,Adult,No,Yes
+1283,Priya Sharma,21,Male,Indore,Gujarat,user282@gmail.com,9859995026,2025-01-10,2025-01-15,Printer,Accessories,1,1000,0.1,900.0,UPI,5,True,True,Young,No,Yes
+1284,Arjun Mehta,22,Male,Indore,Uttar Pradesh,user283@gmail.com,9827543369,2025-01-10,2025-01-15,Tablet,Electronics,1,10000,0.05,9500.0,Cash,3,True,True,Young,No,No
+1285,Pooja Verma,34,Female,Surat,Maharashtra,user284@gmail.com,9837207628,2025-01-10,2025-01-15,Headphones,Furniture,4,20000,0.1,72000.0,Credit Card,1,True,True,Adult,Yes,No
+1286,Sneha Jain,34,Female,Indore,Maharashtra,user285@gmail.com,9881930575,2025-01-10,2025-01-15,Keyboard,Furniture,2,500,0.05,950.0,UPI,4,True,True,Adult,No,No
+1287,Priya Sharma,22,Male,Jaipur,Uttar Pradesh,user286@gmail.com,9890973889,2025-01-10,2025-01-15,Laptop,Electronics,3,5000,0.1,13500.0,Cash,2,True,True,Young,No,No
+1288,Pooja Verma,32,Male,Jaipur,Gujarat,user287@gmail.com,9833336132,2025-01-10,2025-01-15,Laptop,Electronics,1,20000,0.05,19000.0,Cash,5,True,True,Adult,No,Yes
+1289,Sneha Jain,23,Male,Delhi,Maharashtra,user288@gmail.com,9818277097,2025-01-10,2025-01-15,Tablet,Electronics,5,1000,0.0,5000.0,UPI,4,True,True,Young,No,No
+1290,Kiran Shah,33,Female,Jaipur,Maharashtra,user289@gmail.com,9818653290,2025-01-10,2025-01-15,Tablet,Accessories,3,20000,0.0,60000.0,Cash,2,True,True,Adult,Yes,No
+1291,Priya Sharma,21,Female,Mumbai,Delhi,user290@gmail.com,9887025433,2025-01-10,2025-01-15,Mouse,Furniture,1,50000,0.1,45000.0,Credit Card,4,True,True,Young,Yes,No
+1292,Arjun Mehta,25,Female,Delhi,Delhi,user291@gmail.com,9846907428,2025-01-10,2025-01-15,Monitor,Electronics,4,500,0.15,1700.0,UPI,1,True,True,Young,No,No
+1293,Neha Patel,40,Female,Lucknow,Rajasthan,user292@gmail.com,9883912181,2025-01-10,2025-01-15,Printer,Electronics,5,10000,0.2,40000.0,UPI,3,True,True,Adult,Yes,No
+1294,Neha Patel,40,Male,Mumbai,Rajasthan,user293@gmail.com,9858199211,2025-01-10,2025-01-15,Printer,Accessories,4,1000,0.15,3400.0,Cash,3,True,True,Adult,No,No
+1295,Arjun Mehta,28,Male,Mumbai,Gujarat,user294@gmail.com,9890143600,2025-01-10,2025-01-15,Tablet,Electronics,5,10000,0.1,45000.0,Cash,1,True,True,Young,Yes,No
+1296,Kiran Shah,27,Male,Delhi,Delhi,user295@gmail.com,9898162850,2025-01-10,2025-01-15,Tablet,Electronics,4,10000,0.1,36000.0,Credit Card,10,True,True,Young,Yes,Yes
+1297,Pooja Verma,49,Male,Ahmedabad,Delhi,user296@gmail.com,9889526622,2025-01-10,2025-01-15,Keyboard,Furniture,2,10000,0.15,17000.0,Credit Card,3,True,True,Adult,No,No
+1298,Kiran Shah,38,Male,Surat,Rajasthan,user297@gmail.com,9882762732,2025-01-10,2025-01-15,Monitor,Electronics,5,500,0.1,2250.0,Cash,1,True,True,Adult,No,No
+1299,Kiran Shah,27,Male,Lucknow,Maharashtra,user298@gmail.com,9854524582,2025-01-10,2025-01-15,Desk,Electronics,1,500,0.05,475.0,UPI,3,True,True,Young,No,No
+1300,Amit Kumar,20,Male,Mumbai,Maharashtra,user299@gmail.com,9880638102,2025-01-10,2025-01-15,Keyboard,Electronics,2,50000,0.1,90000.0,Cash,4,True,True,Young,Yes,No
+1001,Neha Patel,27,Male,Delhi,Uttar Pradesh,user0@gmail.com,9883197857,2025-01-10,2025-01-15,Mobile,Accessories,1,500,0.1,450.0,Cash,0,True,True,Young,No,No
+1002,Neha Patel,36,Male,Surat,Uttar Pradesh,user1@gmail.com,9897226012,2025-01-10,2025-01-15,Chair,Electronics,1,500,0.05,475.0,UPI,4,True,True,Adult,No,No
+1003,Rahul Singh,42,Female,Pune,Gujarat,user2@gmail.com,9830868105,2025-01-10,2025-01-15,Tablet,Furniture,5,2500,0.0,12500.0,Cash,1,True,True,Adult,No,No
+1004,Pooja Verma,47,Female,Jaipur,Maharashtra,user3@gmail.com,9871662963,2025-01-10,2025-01-15,Chair,Electronics,1,5000,0.0,5000.0,Cash,1,True,True,Adult,No,No
+1005,Pooja Verma,38,Male,Delhi,Maharashtra,user4@gmail.com,9898753260,2025-01-10,2025-01-15,Tablet,Furniture,5,2500,0.2,10000.0,Cash,1,True,True,Adult,No,No
+1007,Rohit Gupta,43,Male,Ahmedabad,Rajasthan,user6@gmail.com,9860929647,2025-01-10,2025-01-15,Monitor,Accessories,1,10000,0.05,9500.0,Credit Card,5,True,True,Adult,No,Yes
+1008,Amit Kumar,27,Male,Pune,Rajasthan,user7@gmail.com,9845935572,2025-01-10,2025-01-15,Mobile,Electronics,2,20000,0.1,36000.0,Credit Card,3,True,True,Young,Yes,No
+1010,Arjun Mehta,33,Female,Pune,Delhi,user9@gmail.com,9828566572,2025-01-10,2025-01-15,Chair,Electronics,3,20000,0.2,48000.0,UPI,1,True,True,Adult,Yes,No
